@@ -12,7 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <shiro.version>1.2.1</shiro.version>
+        <shiro.version>1.4.2</shiro.version>
         <thymeleaf.version>2.0.16</thymeleaf.version>
     </properties>
 
